@@ -199,7 +199,31 @@
       <option name="project" value="LOCAL" />
       <updated>1745780109412</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Первый коммит">
+      <option name="closed" value="true" />
+      <created>1745830169122</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745830169122</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Первый коммит">
+      <option name="closed" value="true" />
+      <created>1745830182621</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745830182621</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ahrtfba">
+      <option name="closed" value="true" />
+      <created>1745830203767</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745830203767</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +240,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="VD02" />
-    <option name="LAST_COMMIT_MESSAGE" value="VD02" />
+    <MESSAGE value="Первый коммит" />
+    <MESSAGE value="ahrtfba" />
+    <option name="LAST_COMMIT_MESSAGE" value="ahrtfba" />
   </component>
 </project>
